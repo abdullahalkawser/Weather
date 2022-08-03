@@ -1,0 +1,31 @@
+#container{
+    text-align: center;
+    margin: 150px auto;
+    width: 450px;
+    background-color:red;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    
+
+
+}
+body{
+   color: white;
+   font-size: 30px; 
+} 
+#button{
+    color:black;
+}
+#input{
+    margin-top: 40px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#button{
+    margin-top: 40px;
+    font-size: 20px;
+}
